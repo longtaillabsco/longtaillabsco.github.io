@@ -1,0 +1,22 @@
+{
+  "name": "longtaillabsco.github.io",
+  "version": "1.0.0",
+  "description": "This is the public website for Long Tail Labs, Inc.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longtaillabsco/longtaillabsco.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longtaillabsco/longtaillabsco.github.io/issues"
+  },
+  "homepage": "https://github.com/longtaillabsco/longtaillabsco.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
